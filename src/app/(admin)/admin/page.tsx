@@ -126,7 +126,7 @@ export default function AdminDashboardPage() {
                         <span className={`text-xs px-2.5 py-1 rounded-lg ${cfg.bg} ${cfg.color} font-medium`}>{cfg.label}</span>
                       </td>
                     </tr>
-                  )
+                  ) 
                 })
               )}
             </tbody>
